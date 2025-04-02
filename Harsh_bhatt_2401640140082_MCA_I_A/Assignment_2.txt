@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <style>
+        body{
+            background-image: url(1.jpg);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center; color:red">Curriculum Vitae</h1>
+    <div>
+        <h3>Infomax Academy</h3>
+        <p>Address: G. R. Complex Preetam Nagar, Dhoomanganj <br> Prayagraj, Uttar Pradesh - 211011</p>
+
+        <p>Mobile: +91 8555555555</p>
+        <p>Email: <a href="" style="text-decoration: none; color: white">info@info.com</a></p>
+    </div>
+    <hr>
+    <div>
+        <h3>Career Objectives</h3>
+        <p>To perceive a career in a renowned firm with dedicated efforts and to associate myself with an organisation that gives me a chance to update my knowledge.</p>
+    </div>
+    <div>
+        <h3><u>Educational Qualification:</u></h3>
+        <p>Graduation B.com(computer Science) Under Osmania University from SandeepMani degree college, Kamarreddy - 2009</p>
+        <p>Intermediate C.E.C under Board of Intermediate Education, from SandeepMani degree college, Kamarreddy - 2006</p>
+        <p>
+            Intermediate C.E.C under Board of Intermediate Education, from SandeepMani degree college, Kamarreddy - 2006 
+        </p>
+    </div>
+    <div>
+        <h3><u>Computer Skills:</u></h3>
+        <p>PGDCA (post Graduation Diploma in Computer Application)
+        </p>
+        <p>ADCA(Advanced Diploma in Computer Application)
+        </p>
+    </div>
+
+</body>
+</html>
