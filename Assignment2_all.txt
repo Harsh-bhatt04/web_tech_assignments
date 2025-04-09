@@ -1,0 +1,191 @@
+//problem 1
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List and Bullets</title>
+</head>
+<body>
+    <h2 style="text-align: center; text-decoration: underline;">List of Courses</h2>
+    <div style="display: flex;align-items: center; justify-content: center;">
+    
+    <div>
+        <h3>Certification Courses</h3>
+        <ul type="square">
+            <li>CCA</li>
+            <li>DCP</li>
+            <li>TALLY</li>
+        </ul>
+        <h3>NEILIT Courses</h3>
+        <ol type="I">
+            <li>CCC</li>
+            <li>O Level</li>
+            <li>A Level</li>
+        </ol>
+        <h3>Diploma Courses</h3>
+        <ol type="A">
+            <li>DCA</li>
+            <li>ADCA</li>
+            <li>PGDCA</li>
+            <li>DDNT</li>
+        </ol>
+        <h3>Programming Courses</h3>
+        <ol type="1" start="11">
+            <li>Python</li>
+            <li>Java</li>
+            <li>C Programming</li>
+        </ol>
+    </div>
+</div>
+</body>
+</html>
+
+
+
+//Program 2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2 style="text-decoration: underline;">Nested List</h2>
+    <div>
+        <ol type="I">
+            <li>Background Skills</li>
+            <ol type="A">
+                <li>UNIX command</li>
+                <li>Vim Test Editors</li>
+            </ol>
+            <li>HTML</li>
+            <ol type="A">
+                <li>Minimal Page</li>
+                <li>Heading</li>
+                <li>Elements</li>
+                <li>List</li>
+                <ol type="i">
+                    <li>Unordered</li>
+                    <li>Ordered</li>
+                    <li>Definition </li>
+                    <li>Nested</li>
+                </ol>
+                <li>Links</li>
+                <ol type="i">
+                    <li>Absolute</li>
+                    <li>Relative</li>
+                </ol>
+                <li>Image</li>
+            </ol>
+        </ol>
+    </div>
+</body>
+</html>
+
+//Program 3
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Input/Output Devices</h3>
+        <div>
+            <dl>
+            <dt>Mouse</dt>
+            <dd>Mouse is an Input Device and also knonw as pointing device.</dd>
+
+            <dt>Monitor</dt>
+            <dd>Monitor is an output device which provides soft copy of the output</dd>
+
+            <dt>Printer</dt>
+            <dd>printer is an output device which provides hard copy of the output</dd>
+        </dl>
+        </div>
+
+</body>
+</html>
+
+
+//Program 4
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Web Categories</h2>
+
+    <div>
+        <h3>Search Engine</h3>
+        <ul type="none"> 
+            <li><a href="https://google.com"> Google</a>
+            </li>
+            <li><a href="https://bing.com"> Bing</a></li>
+            <li><a href="https://yahoo.com"> Yahoo</a></li>
+        </ul>
+    </div>
+
+    <div>
+        <h3>E-Commerce</h3>
+        <ul type="none">
+        <li><a href="https://amazon.in"> Amazon</a>
+        </li>
+        <li><a href="https://ebay.com"> E-Bay</a></li>
+        <li><a href="https://alibaba.com">Alibaba</a></li>
+    </ul>
+    </div>
+    <div>
+        <h3>Social Media</h3>
+        <ul type="none">
+            <li><a href="https://facebook.com"> Facebook</a>
+            </li>
+            <li><a href="https://instagram.com">Instagram</a></li>
+            <li><a href="https://twitter.com">Twitter</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3>News website</h3>
+        <ul type="none">
+            <li><a href="https://bbc.com"> BBC</a>
+            </li>
+            <li><a href="https://cnn.com"> CNN</a></li>
+            <li><a href="https://nytimes.com">The New York Times</a></li>
+        </ul>
+    </div>
+
+</body>
+</html>
+
+
+//Program 5 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Image with Marquee</h3>
+    <p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus error, aperiam illo harum temporibus quasi sint, non, veritatis doloribus consectetur numquam a ex cumque fugit quod in excepturi magnam at.
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum eaque soluta quas dolore accusamus blanditiis sequi quidem fugiat aperiam similique. Deserunt blanditiis iste voluptas quae animi, quod fugit reprehenderit itaque?
+    </p>
+    <marquee behavior="" direction="right"><img src="images.jpg" alt="fasd"></marquee>
+</body>
+</html>
+
+
+
+
